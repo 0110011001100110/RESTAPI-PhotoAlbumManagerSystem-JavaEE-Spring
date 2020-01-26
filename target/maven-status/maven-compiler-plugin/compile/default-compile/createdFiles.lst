@@ -1,0 +1,14 @@
+com\nilin\springboot\repository\AlbumRepository.class
+com\nilin\springboot\service\AlbumService.class
+com\nilin\springboot\APIcontrollers\ImageController.class
+com\nilin\springboot\service\UserService.class
+com\nilin\springboot\repository\UserRepository.class
+com\nilin\springboot\service\ImageStorageService.class
+com\nilin\springboot\model\User.class
+com\nilin\springboot\model\Album.class
+com\nilin\springboot\service\UserDetailsServiceImpl.class
+com\nilin\springboot\model\Image.class
+com\nilin\springboot\payload\UploadFileResponse.class
+com\nilin\springboot\APIcontrollers\AlbumController.class
+com\nilin\springboot\model\Role.class
+com\nilin\springboot\repository\ImageRepository.class
