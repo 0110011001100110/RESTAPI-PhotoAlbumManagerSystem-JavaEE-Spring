@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="authentication-authorization-service" />
+        <module name="consumerpointservice" />
+        <module name="produceruserservice" />
+        <module name="zuulproxyroutingservice" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-cloud-config-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Second Phase" options="-parameters" />
+      <module name="authentication-authorization-service" options="-parameters" />
+      <module name="consumerpointservice" options="-parameters" />
+      <module name="produceruserservice" options="-parameters" />
+      <module name="spring-cloud-config-server" options="-parameters" />
+      <module name="zuulproxyroutingservice" options="-parameters" />
+    </option>
+  </component>
+</project>

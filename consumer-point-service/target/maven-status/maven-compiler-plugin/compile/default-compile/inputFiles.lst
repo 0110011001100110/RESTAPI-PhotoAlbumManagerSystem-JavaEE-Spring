@@ -1,0 +1,7 @@
+D:\Internship_Nilin\Second Phase\consumer-point-service\src\main\java\com\nilin\springboot\model\UserScore.java
+D:\Internship_Nilin\Second Phase\consumer-point-service\src\main\java\com\nilin\springboot\APIcontroller\UserScoreController.java
+D:\Internship_Nilin\Second Phase\consumer-point-service\src\main\java\com\nilin\springboot\WebApplication.java
+D:\Internship_Nilin\Second Phase\consumer-point-service\src\main\java\com\nilin\springboot\repository\UserScoreRepository.java
+D:\Internship_Nilin\Second Phase\consumer-point-service\src\main\java\com\nilin\springboot\Configuration\RabbitMQConfig.java
+D:\Internship_Nilin\Second Phase\consumer-point-service\src\main\java\com\nilin\springboot\DTO\MessageDto.java
+D:\Internship_Nilin\Second Phase\consumer-point-service\src\main\java\com\nilin\springboot\service\RabbitMQConsumerService.java

@@ -1,0 +1,7 @@
+com\nilin\springboot\service\RabbitMQConsumerService.class
+com\nilin\springboot\Configuration\RabbitMQConfig.class
+com\nilin\springboot\WebApplication.class
+com\nilin\springboot\DTO\MessageDto.class
+com\nilin\springboot\model\UserScore.class
+com\nilin\springboot\APIcontroller\UserScoreController.class
+com\nilin\springboot\repository\UserScoreRepository.class

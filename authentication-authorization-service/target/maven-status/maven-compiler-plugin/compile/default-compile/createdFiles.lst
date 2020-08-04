@@ -1,0 +1,6 @@
+com\nilin\springboot\repository\UserRepository.class
+com\nilin\springboot\model\User.class
+com\nilin\springboot\configuration\OAuth2AuthorizationServerConfig.class
+com\nilin\springboot\configuration\WebSecurityConfig.class
+com\nilin\springboot\service\UserDetailsService.class
+com\nilin\springboot\WebApplication.class

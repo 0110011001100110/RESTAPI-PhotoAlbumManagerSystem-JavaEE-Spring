@@ -1,0 +1,1138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff6eddc9-d39a-4c82-9a0f-76fbd47eb138" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/producer-user-service/target/" />
+    <ignored path="$PROJECT_DIR$/consumer-point-service/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-config-server/target/" />
+    <ignored path="$PROJECT_DIR$/sfd/target/" />
+    <ignored path="$PROJECT_DIR$/authentication-authorization-service/target/" />
+    <ignored path="$PROJECT_DIR$/authentication-authorization-zuulProxy-service/target/" />
+    <ignored path="$PROJECT_DIR$/zuulproxy-routing-service/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/authentication-authorization-service/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/authentication-authorization-service/src/main/java/com/nilin/springboot/configuration/WebSecurityConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/producer-user-service/src/main/java/com/nilin/springboot/FeignInterfaces/ProducerFeignClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/producer-user-service/src/main/java/com/nilin/springboot/APIcontrollers/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="709">
+              <caret line="140" column="55" selection-start-line="140" selection-start-column="55" selection-end-line="140" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/consumer-point-service/src/main/java/com/nilin/springboot/APIcontroller/UserScoreController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/authentication-authorization-service/src/main/java/com/nilin/springboot/configuration/OAuth2AuthorizationServerConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/authentication-authorization-service/src/main/java/com/nilin/springboot/repository/UserRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/authentication-authorization-service/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="39" selection-start-line="39" selection-end-line="43" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/producer-user-service/src/main/java/com/nilin/springboot/Configuration/OAuth2ResourceServerConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="19" column="174" selection-start-line="19" selection-start-column="174" selection-end-line="19" selection-end-column="174" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zuulproxy-routing-service/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\Internship_Nilin\Second Phase\consumer-point-service\src\main\java\APIcontroller</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/producer-user-service/src/main/java/com/nilin/springboot/DTO/CreateAlbumDto.java" />
+        <option value="$PROJECT_DIR$/producer-user-service/src/main/java/com/nilin/springboot/DTO/UploadImageDto.java" />
+        <option value="$PROJECT_DIR$/producer-user-service/src/main/java/com/nilin/springboot/DTO/RegistrationDto.java" />
+        <option value="$PROJECT_DIR$/consumer-point-service/src/main/java/com/nilin/springboot/DTO/RegistrationDto.java" />
+        <option value="$PROJECT_DIR$/producer-user-service/src/main/java/com/nilin/springboot/DTO/MessageDto.java" />
+        <option value="$PROJECT_DIR$/consumer-point-service/src/main/java/com/nilin/springboot/DTO/MessageDto.java" />
+        <option value="$PROJECT_DIR$/producer-user-service/src/main/java/com/nilin/springboot/service/RabbitMQProducerService.java" />
+        <option value="$PROJECT_DIR$/consumer-point-service/src/main/java/com/nilin/springboot/model/UserScore.java" />
+        <option value="$PROJECT_DIR$/consumer-point-service/src/main/java/com/nilin/springboot/repository/UserScoreRepository.java" />
+        <option value="$PROJECT_DIR$/consumer-point-service/src/main/java/com/nilin/springboot/APIcontroller/UserScoreController.java" />
+        <option value="$PROJECT_DIR$/consumer-point-service/src/main/java/com/nilin/springboot/service/RabbitMQConsumerService.java" />
+        <option value="$PROJECT_DIR$/consumer-point-service/src/main/resources/application-consumer1.properties" />
+        <option value="$PROJECT_DIR$/consumer-point-service/src/main/resources/application-consumer2.properties" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-server/src/main/java/com/nilin/multimodule/springbootCloud/springcloudconfigserver/SpringCloudConfigServerApplication.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/producer-user-service/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/consumer-point-service/pom.xml" />
+        <option value="$PROJECT_DIR$/consumer-point-service/src/main/java/com/nilin/springboot/WebApplication.java" />
+        <option value="$PROJECT_DIR$/consumer-point-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/producer-user-service/src/main/java/com/nilin/springboot/Configuration/WebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/producer-user-service/src/main/java/com/nilin/springboot/FeignInterfaces/UserScoreRepository.java" />
+        <option value="$PROJECT_DIR$/producer-user-service/src/main/java/com/nilin/springboot/FeignInterfaces/ProducerFeignClient.java" />
+        <option value="$PROJECT_DIR$/sfd/pom.xml" />
+        <option value="$PROJECT_DIR$/authentication-authorization-service/src/main/java/com/nilin/springboot/model/User.java" />
+        <option value="$PROJECT_DIR$/authentication-authorization-zuulProxy-service/src/main/java/com/nilin/springboot/filters/PreFilter.java" />
+        <option value="$PROJECT_DIR$/authentication-authorization-zuulProxy-service/src/main/java/com/nilin/springboot/zuulfilters/PreFilter.java" />
+        <option value="$PROJECT_DIR$/authentication-authorization-zuulProxy-service/src/main/java/com/nilin/springboot/WebApplication.java" />
+        <option value="$PROJECT_DIR$/authentication-authorization-zuulProxy-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/authentication-authorization-zuulProxy-service/src/main/java/com/nilin/springboot/APIcontroller/TokenController.java" />
+        <option value="$PROJECT_DIR$/authentication-authorization-zuulProxy-service/pom.xml" />
+        <option value="$PROJECT_DIR$/producer-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/producer-user-service/src/main/java/com/nilin/springboot/Configuration/ResourceServerConfiguration.java" />
+        <option value="$PROJECT_DIR$/authentication-authorization-service/src/main/java/com/nilin/springboot/service/UserDetailsService.java" />
+        <option value="$PROJECT_DIR$/authentication-authorization-service/src/main/java/com/nilin/springboot/APIcontroller/TokenController.java" />
+        <option value="$PROJECT_DIR$/producer-user-service/src/main/java/com/nilin/springboot/APIcontrollers/UserController.java" />
+        <option value="$PROJECT_DIR$/producer-user-service/src/main/java/com/nilin/springboot/APIcontrollers/ImageController.java" />
+        <option value="$PROJECT_DIR$/producer-user-service/src/main/java/com/nilin/springboot/APIcontrollers/AlbumController.java" />
+        <option value="$PROJECT_DIR$/authentication-authorization-service/src/main/java/com/nilin/springboot/WebApplication.java" />
+        <option value="$PROJECT_DIR$/producer-user-service/src/main/java/com/nilin/springboot/service/SecurityService.java" />
+        <option value="$PROJECT_DIR$/producer-user-service/src/main/java/com/nilin/springboot/service/UserService.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/producer-user-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/producer-user-service/src/main/java/com/nilin/springboot/Configuration/OAuth2ResourceServerConfiguration.java" />
+        <option value="$PROJECT_DIR$/producer-user-service/src/main/java/com/nilin/springboot/WebApplication.java" />
+        <option value="$PROJECT_DIR$/zuulproxy-routing-service/src/main/java/com/nilin/springboot/WebApplication.java" />
+        <option value="$PROJECT_DIR$/zuulproxy-routing-service/pom.xml" />
+        <option value="$PROJECT_DIR$/zuulproxy-routing-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/authentication-authorization-service/pom.xml" />
+        <option value="$PROJECT_DIR$/authentication-authorization-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/authentication-authorization-service/src/main/java/com/nilin/springboot/configuration/OAuth2AuthorizationServerConfig.java" />
+        <option value="$PROJECT_DIR$/authentication-authorization-service/src/main/java/com/nilin/springboot/configuration/WebSecurityConfig.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="authentication-authorization-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="authentication-authorization-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="authentication-authorization-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="spring-boot" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-78" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springbootmultimoduleproduceruserserviceconsumerpointservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Phase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootmultimoduleproduceruserserviceconsumerpointservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Phase" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication-authorization-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootmultimoduleproduceruserserviceconsumerpointservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Phase" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication-authorization-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootmultimoduleproduceruserserviceconsumerpointservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Phase" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication-authorization-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootmultimoduleproduceruserserviceconsumerpointservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Phase" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication-authorization-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootmultimoduleproduceruserserviceconsumerpointservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Phase" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication-authorization-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootmultimoduleproduceruserserviceconsumerpointservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Phase" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication-authorization-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="APIcontroller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootmultimoduleproduceruserserviceconsumerpointservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Phase" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication-authorization-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="configuration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootmultimoduleproduceruserserviceconsumerpointservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Phase" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication-authorization-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootmultimoduleproduceruserserviceconsumerpointservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Phase" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication-authorization-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootmultimoduleproduceruserserviceconsumerpointservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Phase" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication-authorization-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootmultimoduleproduceruserserviceconsumerpointservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Phase" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer-point-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootmultimoduleproduceruserserviceconsumerpointservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Phase" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer-point-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootmultimoduleproduceruserserviceconsumerpointservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Phase" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer-point-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootmultimoduleproduceruserserviceconsumerpointservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Phase" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer-point-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootmultimoduleproduceruserserviceconsumerpointservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Phase" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer-point-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootmultimoduleproduceruserserviceconsumerpointservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Phase" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer-point-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="APIcontroller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootmultimoduleproduceruserserviceconsumerpointservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Phase" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer-point-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootmultimoduleproduceruserserviceconsumerpointservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Phase" type="462c0819:PsiDirectoryNode" />
+              <item name="producer-user-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootmultimoduleproduceruserserviceconsumerpointservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Phase" type="462c0819:PsiDirectoryNode" />
+              <item name="producer-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootmultimoduleproduceruserserviceconsumerpointservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Phase" type="462c0819:PsiDirectoryNode" />
+              <item name="producer-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootmultimoduleproduceruserserviceconsumerpointservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Phase" type="462c0819:PsiDirectoryNode" />
+              <item name="producer-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootmultimoduleproduceruserserviceconsumerpointservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Phase" type="462c0819:PsiDirectoryNode" />
+              <item name="producer-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootmultimoduleproduceruserserviceconsumerpointservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Phase" type="462c0819:PsiDirectoryNode" />
+              <item name="producer-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="APIcontrollers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootmultimoduleproduceruserserviceconsumerpointservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Phase" type="462c0819:PsiDirectoryNode" />
+              <item name="producer-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="Configuration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootmultimoduleproduceruserserviceconsumerpointservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Phase" type="462c0819:PsiDirectoryNode" />
+              <item name="producer-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="FeignInterfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootmultimoduleproduceruserserviceconsumerpointservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Phase" type="462c0819:PsiDirectoryNode" />
+              <item name="producer-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootmultimoduleproduceruserserviceconsumerpointservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Phase" type="462c0819:PsiDirectoryNode" />
+              <item name="producer-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootmultimoduleproduceruserserviceconsumerpointservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Phase" type="462c0819:PsiDirectoryNode" />
+              <item name="zuulproxy-routing-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootmultimoduleproduceruserserviceconsumerpointservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Phase" type="462c0819:PsiDirectoryNode" />
+              <item name="zuulproxy-routing-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootmultimoduleproduceruserserviceconsumerpointservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Phase" type="462c0819:PsiDirectoryNode" />
+              <item name="zuulproxy-routing-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootmultimoduleproduceruserserviceconsumerpointservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Phase" type="462c0819:PsiDirectoryNode" />
+              <item name="zuulproxy-routing-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootmultimoduleproduceruserserviceconsumerpointservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Phase" type="462c0819:PsiDirectoryNode" />
+              <item name="zuulproxy-routing-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootmultimoduleproduceruserserviceconsumerpointservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Phase" type="462c0819:PsiDirectoryNode" />
+              <item name="zuulproxy-routing-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="zuulfilters" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootmultimoduleproduceruserserviceconsumerpointservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Phase" type="462c0819:PsiDirectoryNode" />
+              <item name="zuulproxy-routing-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Second Phase_restTemplate_springCloud-serviceRegistry&amp;discovery" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.nilin.springboot.service" />
+      <recent name="com.nilin.springboot" />
+      <recent name="com.nilin.springboot.repository" />
+      <recent name="com.nilin.springboot.model" />
+      <recent name="com.nilin.springboot.configuration" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Internship_Nilin\Second Phase\zuulproxy-routing-service\src\main\resources" />
+      <recent name="D:\Internship_Nilin\Second Phase\zuulproxy-routing-service\src\main\java\com\nilin\springboot" />
+      <recent name="D:\Internship_Nilin\Second Phase\authentication-authorization-zuulProxy-service\src\main\java\com\nilin\springboot" />
+      <recent name="D:\Internship_Nilin\Second Phase\consumer-point-service\src\main\java" />
+      <recent name="D:\Internship_Nilin\Second Phase\producer-user-service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.producer-user-service [spring-boot:run]">
+    <configuration name="WebApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nilin.springboot.WebApplication" />
+      <module name="zuulproxyroutingservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nilin.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WebApplication" />
+      <module name="consumerpointservice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="consumer-point-service [spring-boot:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="spring-boot:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/consumer-point-service" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="producer-user-service [spring-boot:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="spring-boot:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/producer-user-service" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.producer-user-service [spring-boot:run]" />
+        <item itemvalue="Application.WebApplication (1)" />
+        <item itemvalue="Maven.consumer-point-service [spring-boot:run]" />
+        <item itemvalue="Application.WebApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff6eddc9-d39a-4c82-9a0f-76fbd47eb138" name="Default Changelist" comment="" />
+      <created>1580114030584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580114030584</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1320" height="784" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31031746" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="DB Browser" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.04608295" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3715221" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="DB Execution Console" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32872504" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.5417349" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.47790506" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Maven" order="6" visible="true" weight="0.08730159" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.24920635" />
+    </layout>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spring-cloud-config-server/src/test/java/com/nilin/multimodule/springbootCloud/springcloudconfigserver/SpringCloudConfigServerApplicationTests.java" />
+    <entry file="file://$PROJECT_DIR$/spring-cloud-config-server/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/producer-user-service/src/main/resources/bootstrap.properties" />
+    <entry file="file://$PROJECT_DIR$/Second Phase.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sfd/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/authentication-authorization-service/src/main/java/com/nilin/springboot/APIcontroller.java" />
+    <entry file="file://$PROJECT_DIR$/authentication-authorization-zuulProxy-service/src/main/java/com/nilin/springboot/zuulfilters/PreFilter.java" />
+    <entry file="file://$PROJECT_DIR$/producer-user-service/src/main/resources/validation.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-authorization-service/src/main/java/com/nilin/springboot/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/producer-user-service/src/main/java/com/nilin/springboot/service/RabbitMQProducerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-point-service/src/main/java/com/nilin/springboot/Configuration/RabbitMQConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="58" column="10" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-point-service/src/main/java/com/nilin/springboot/service/RabbitMQConsumerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-point-service/src/main/java/com/nilin/springboot/DTO/MessageDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/producer-user-service/src/main/java/com/nilin/springboot/service/UserDetailsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-authorization-service/src/main/java/com/nilin/springboot/service/UserDetailsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/producer-user-service/src/main/java/com/nilin/springboot/Configuration/RabbitMQConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/producer-user-service/src/main/java/com/nilin/springboot/service/ImageStorageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="109" column="18" selection-start-line="109" selection-start-column="18" selection-end-line="109" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-authorization-service/src/main/java/com/nilin/springboot/APIcontroller/TokenController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#517#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/producer-user-service/src/main/java/com/nilin/springboot/APIcontrollers/ImageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="81" column="45" selection-start-column="2" selection-end-line="192" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/producer-user-service/src/main/java/com/nilin/springboot/APIcontrollers/AlbumController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="63" column="33" selection-start-line="63" selection-start-column="33" selection-end-line="63" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/producer-user-service/src/main/java/com/nilin/springboot/service/AlbumService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/producer-user-service/src/main/java/com/nilin/springboot/service/SecurityService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="45" column="50" selection-start-line="45" selection-start-column="50" selection-end-line="45" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/producer-user-service/src/main/java/com/nilin/springboot/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.10/httpclient-4.5.10.jar!/org/apache/http/impl/conn/DefaultHttpClientConnectionOperator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="111" selection-start-line="111" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/producer-user-service/src/main/java/com/nilin/springboot/WebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-point-service/src/main/resources/application-consumer1.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-point-service/src/main/resources/application-consumer2.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-point-service/src/main/java/com/nilin/springboot/WebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/producer-user-service/myapp.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuulproxy-routing-service/src/main/java/com/nilin/springboot/zuulfilters/RouteFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuulproxy-routing-service/src/main/java/com/nilin/springboot/zuulfilters/PreFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="32" column="3" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuulproxy-routing-service/src/main/java/com/nilin/springboot/zuulfilters/PostFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuulproxy-routing-service/src/main/java/com/nilin/springboot/zuulfilters/ErrorFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-point-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/producer-user-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="56" selection-start-line="56" selection-end-line="57" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuulproxy-routing-service/src/main/java/com/nilin/springboot/WebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuulproxy-routing-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="20" selection-start-line="20" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-point-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="40" selection-start-line="40" selection-end-line="42" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-authorization-service/src/main/java/com/nilin/springboot/WebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/producer-user-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="97" selection-start-line="97" selection-end-line="111" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-authorization-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="39" selection-start-line="39" selection-end-line="43" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuulproxy-routing-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-authorization-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-authorization-service/src/main/java/com/nilin/springboot/configuration/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-point-service/src/main/java/com/nilin/springboot/APIcontroller/UserScoreController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/producer-user-service/src/main/java/com/nilin/springboot/FeignInterfaces/ProducerFeignClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/producer-user-service/src/main/java/com/nilin/springboot/Configuration/OAuth2ResourceServerConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="19" column="174" selection-start-line="19" selection-start-column="174" selection-end-line="19" selection-end-column="174" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-authorization-service/src/main/java/com/nilin/springboot/configuration/OAuth2AuthorizationServerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-authorization-service/src/main/java/com/nilin/springboot/repository/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/producer-user-service/src/main/java/com/nilin/springboot/APIcontrollers/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="709">
+          <caret line="140" column="55" selection-start-line="140" selection-start-column="55" selection-end-line="140" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>consumerpointservice</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
